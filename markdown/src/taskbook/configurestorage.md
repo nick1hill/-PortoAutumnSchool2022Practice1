@@ -4,7 +4,7 @@ author: Howe Tuduit
 
 # Configuring hard storage devices
 
-Most hard disks do not need any configuring. If they do, the instructions are relatively simple.
+Most hard disks do not need any configuring. If they do, the instructions are simple.
 
 First check the documentation that came with your storage device. If the device requires configuring, follow the steps below.
 
